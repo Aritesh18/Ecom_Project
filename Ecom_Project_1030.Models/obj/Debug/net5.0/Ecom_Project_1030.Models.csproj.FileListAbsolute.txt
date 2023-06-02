@@ -1,0 +1,30 @@
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\bin\Debug\net5.0\Ecom_Project_1030.Models.deps.json
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\bin\Debug\net5.0\Ecom_Project_1030.Models.runtimeconfig.json
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\bin\Debug\net5.0\Ecom_Project_1030.Models.runtimeconfig.dev.json
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\bin\Debug\net5.0\Ecom_Project_1030.Models.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\bin\Debug\net5.0\Ecom_Project_1030.Models.pdb
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.AssemblyInfo.cs
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\ref\Ecom_Project_1030.Models.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.pdb
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.genruntimeconfig.cache
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\bin\Debug\net5.0\Ecom_Project_1030.Models.deps.json
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\bin\Debug\net5.0\Ecom_Project_1030.Models.runtimeconfig.json
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\bin\Debug\net5.0\Ecom_Project_1030.Models.runtimeconfig.dev.json
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\bin\Debug\net5.0\Ecom_Project_1030.Models.dll
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\bin\Debug\net5.0\Ecom_Project_1030.Models.pdb
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.csproj.AssemblyReference.cache
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.AssemblyInfoInputs.cache
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.AssemblyInfo.cs
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.csproj.CoreCompileInputs.cache
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.dll
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\ref\Ecom_Project_1030.Models.dll
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.pdb
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.genruntimeconfig.cache
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\refint\Ecom_Project_1030.Models.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\bin\Debug\net5.0\ref\Ecom_Project_1030.Models.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Models\obj\Debug\net5.0\Ecom_Project_1030.Models.csprojAssemblyReference.cache

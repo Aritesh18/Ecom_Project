@@ -1,0 +1,36 @@
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\bin\Debug\net5.0\Ecom_Project_1030.DataAccess.deps.json
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\bin\Debug\net5.0\Ecom_Project_1030.DataAccess.runtimeconfig.json
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\bin\Debug\net5.0\Ecom_Project_1030.DataAccess.runtimeconfig.dev.json
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\bin\Debug\net5.0\Ecom_Project_1030.DataAccess.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\bin\Debug\net5.0\Ecom_Project_1030.DataAccess.pdb
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\bin\Debug\net5.0\Ecom_Project_1030.Models.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\bin\Debug\net5.0\Ecom_Project_1030.Models.pdb
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.AssemblyInfo.cs
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.csproj.CopyComplete
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\ref\Ecom_Project_1030.DataAccess.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.pdb
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.genruntimeconfig.cache
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\bin\Debug\net5.0\Ecom_Project_1030.DataAccess.deps.json
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\bin\Debug\net5.0\Ecom_Project_1030.DataAccess.runtimeconfig.json
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\bin\Debug\net5.0\Ecom_Project_1030.DataAccess.runtimeconfig.dev.json
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\bin\Debug\net5.0\Ecom_Project_1030.DataAccess.dll
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\bin\Debug\net5.0\Ecom_Project_1030.DataAccess.pdb
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\bin\Debug\net5.0\Ecom_Project_1030.Models.dll
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\bin\Debug\net5.0\Ecom_Project_1030.Models.pdb
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.csproj.AssemblyReference.cache
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.AssemblyInfoInputs.cache
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.AssemblyInfo.cs
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.csproj.CoreCompileInputs.cache
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.csproj.CopyComplete
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.dll
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\ref\Ecom_Project_1030.DataAccess.dll
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.pdb
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.genruntimeconfig.cache
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\refint\Ecom_Project_1030.DataAccess.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\bin\Debug\net5.0\ref\Ecom_Project_1030.DataAccess.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.DataAccess\obj\Debug\net5.0\Ecom_Project_1030.DataAccess.csprojAssemblyReference.cache

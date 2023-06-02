@@ -1,0 +1,30 @@
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\bin\Debug\net5.0\Ecom_Project_1030.Utility.deps.json
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\bin\Debug\net5.0\Ecom_Project_1030.Utility.runtimeconfig.json
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\bin\Debug\net5.0\Ecom_Project_1030.Utility.runtimeconfig.dev.json
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\bin\Debug\net5.0\Ecom_Project_1030.Utility.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\bin\Debug\net5.0\Ecom_Project_1030.Utility.pdb
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.AssemblyInfo.cs
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\ref\Ecom_Project_1030.Utility.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.pdb
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.genruntimeconfig.cache
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\bin\Debug\net5.0\Ecom_Project_1030.Utility.deps.json
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\bin\Debug\net5.0\Ecom_Project_1030.Utility.runtimeconfig.json
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\bin\Debug\net5.0\Ecom_Project_1030.Utility.runtimeconfig.dev.json
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\bin\Debug\net5.0\Ecom_Project_1030.Utility.dll
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\bin\Debug\net5.0\Ecom_Project_1030.Utility.pdb
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.csproj.AssemblyReference.cache
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.AssemblyInfoInputs.cache
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.AssemblyInfo.cs
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.csproj.CoreCompileInputs.cache
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.dll
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\ref\Ecom_Project_1030.Utility.dll
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.pdb
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.genruntimeconfig.cache
+D:\Angular Projects\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\refint\Ecom_Project_1030.Utility.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\bin\Debug\net5.0\ref\Ecom_Project_1030.Utility.dll
+D:\ASP.NET CORE\Ecom_Project_1030\Ecom_Project_1030.Utility\obj\Debug\net5.0\Ecom_Project_1030.Utility.csprojAssemblyReference.cache
